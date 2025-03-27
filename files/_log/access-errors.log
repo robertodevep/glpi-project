@@ -1,0 +1,4 @@
+2025-03-21 10:26:21 [2@roberto-Lenovo-V330-14IKB]
+CSRF check failed for User ID: 2 at /glpi/front/notificationmailingsetting.form.php
+2025-03-24 16:26:44 [2@roberto-Lenovo-V330-14IKB]
+CSRF check failed for User ID: 2 at /glpi/front/massiveaction.php
